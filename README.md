@@ -1,6 +1,6 @@
 # Namaste, Here Me Santosh Adhikari 👋
 
-I'm a Web and Mobile engineer and Tech Consultant. Currently working as a Software Engineer at [UGBazaar](https://ugbazaar.com)
+I'm a Web and Mobile engineer. Currently working as a Software Engineer at [UGBazaar](https://ugbazaar.com)
 
 <!-- ### Tech Stack
 <img src="tech.svg" title="Flutter, Firebase, node.js, Laravel, Dart, HTML, CSS, JS" alt="Flutter, Firebase, node.js, Laravel, Dart, HTML, CSS, JS" /> <br /><br />
