@@ -1,6 +1,9 @@
-# Namaste, Here Me Santosh Adhikari 👋
 
-I'm a Web and Mobile engineer. Currently working as a Software Engineer at [UGBazaar](https://ugbazaar.com)
+<a href="#"><img style="align:center;" width="100%" height="auto" src="https://i.imgur.com/PxEVCZg.png" /></a>
+
+<h1 align="center">Namaste <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,   Here Me Santosh Adhikari 👋</h1>
+<h3 align="center">I'm a Full Stack Flutter Developer from Nepal. Currently working as a Software Engineer at [UGBazaar](https://ugbazaar.com)</h3>
+
 
 <!-- ### Tech Stack
 <img src="tech.svg" title="Flutter, Firebase, node.js, Laravel, Dart, HTML, CSS, JS" alt="Flutter, Firebase, node.js, Laravel, Dart, HTML, CSS, JS" /> <br /><br />
