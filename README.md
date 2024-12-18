@@ -2,7 +2,7 @@
 <a href="#"><img style="align:center;" width="100%" height="auto" src="https://i.imgur.com/PxEVCZg.png" /></a>
 
 <h1 align="center">Namaste <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,   Here Me Santosh Adhikari 👋</h1>
-<h3 align="center">I'm a Full Stack Flutter Developer from Nepal. Currently working as a Software Engineer at [UGBazaar](https://ugbazaar.com)</h3>
+<h3 align="center">I'm a Sr. Flutter Developer And full stack Laravel developer from Nepal. Currently working as a Senior Software Engineer at [Pioneer Associate](https://pioneerassociate.com.np)</h3>
 
 
 <!-- ### Tech Stack
